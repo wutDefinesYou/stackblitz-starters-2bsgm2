@@ -1,0 +1,33 @@
+5/28/2024, 4:35:37 PM	7dc5651f-ca23-4fe0-8826-c5513a740434	Error: Not allowed by CORS
+5/29/2024, 6:29:41 PM	8ea3da29-729f-4a47-abeb-75804d6c93f6	Error: ENOENT: no such file or directory, stat '/home/projects/stackblitz-starters-2bsgm2/routes/data/employees.json'
+5/30/2024, 3:55:34 PM	b83f3526-87d3-4816-bc9b-817587aeb3a4	Error: Not allowed by CORS
+5/30/2024, 3:59:17 PM	8be951c0-f70e-4d65-8243-b041a23b55b0	Error: Not allowed by CORS
+5/30/2024, 4:01:07 PM	ac9dc28e-a9d8-422c-8f06-6505e9ff7337	Error: Not allowed by CORS
+5/30/2024, 4:33:59 PM	706ad268-7056-4e71-a992-b05e3c729385	TypeError: The "id" argument must be of type string. Received an instance of IncomingMessage
+5/30/2024, 4:33:59 PM	52f3c176-20e1-4157-9355-4e89baa27204	TypeError: The "id" argument must be of type string. Received an instance of IncomingMessage
+5/30/2024, 4:34:00 PM	41f73bc5-8c40-4d71-830d-65be39b8043b	TypeError: The "id" argument must be of type string. Received an instance of IncomingMessage
+5/30/2024, 4:34:06 PM	e77a1544-758a-499a-a0c8-36acd10828c0	ReferenceError: resolve is not defined
+5/30/2024, 4:34:06 PM	62f33714-d1ba-4081-953f-1d16145b4ab9	ReferenceError: resolve is not defined
+5/30/2024, 4:34:13 PM	1a1f1c78-267b-4996-8cc4-91811834437f	ReferenceError: resolve is not defined
+5/30/2024, 4:34:16 PM	545d6b2a-0f79-4414-8ed7-93aee225b570	Error: ENOENT: no such file or directory, stat '/home/projects/stackblitz-starters-2bsgm2/routes/pages/index.html'
+5/30/2024, 4:34:41 PM	dc521483-622d-45eb-bcf2-b9310fb8519b	TypeError: The "paths[2]" argument must be of type string. Received type number (NaN)
+5/30/2024, 4:38:49 PM	55265070-d4f2-4632-8550-c55e48c92407	Error: ENOENT: no such file or directory, stat '/home/projects/stackblitz-starters-2bsgm2/routes/pages/new-page.html'
+5/30/2024, 4:38:50 PM	40b402b5-c3a2-4189-b5de-db728ac8e34c	Error: ENOENT: no such file or directory, stat '/home/projects/stackblitz-starters-2bsgm2/routes/pages/new-page.html'
+5/31/2024, 5:07:01 PM	72377883-951a-4b24-b8f6-af09eafefd70	Error: ENOENT: no such file or directory, stat '/home/projects/stackblitz-starters-2bsgm2/pages/404.html'
+5/31/2024, 5:07:41 PM	2b5be2ca-776d-464b-998f-7264d067eb63	ReferenceError: can't access lexical declaration 'data' before initialization
+5/31/2024, 5:09:26 PM	0a72fe1c-223a-4fb8-a83d-4841697dda8c	ReferenceError: parseIntid is not defined
+5/31/2024, 5:18:21 PM	65b2ef0e-5312-4b14-80ee-ce962439b9dc	Error: ENOENT: no such file or directory, stat '/home/projects/stackblitz-starters-2bsgm2/pages/404.html'
+5/31/2024, 5:18:21 PM	cb95fae6-3f20-4b37-9410-ded4bfea0fc9	Error: ENOENT: no such file or directory, stat '/home/projects/stackblitz-starters-2bsgm2/pages/404.html'
+5/31/2024, 5:23:10 PM	03fb0505-81f4-4936-9359-097e192f8982	ReferenceError: emplopyee is not defined
+5/31/2024, 5:23:27 PM	0294ecf9-4eef-4e93-835d-1567cb714805	ReferenceError: emplopyee is not defined
+5/31/2024, 5:23:41 PM	f5c07b0f-47ce-45ac-a0dc-5505df98f159	ReferenceError: emplopyee is not defined
+6/5/2024, 5:34:46 PM	8ef643e8-86f8-4774-997e-50bfa1625868	Error: ENOENT: no such file or directory, stat '/home/projects/stackblitz-starters-2bsgm2/pages/404.html'
+6/5/2024, 5:35:09 PM	59e912dd-fdca-4e5c-aeeb-202f3c186374	Error: ENOENT: no such file or directory, stat '/home/projects/stackblitz-starters-2bsgm2/pages/404.html'
+6/5/2024, 5:35:27 PM	3bc34122-0c02-4006-bc2e-8593243f24ae	Error: ENOENT: no such file or directory, stat '/home/projects/stackblitz-starters-2bsgm2/pages/404.html'
+6/5/2024, 5:35:54 PM	70cf8b8b-55b3-4431-8599-01cacd286d36	Error: ENOENT: no such file or directory, stat '/home/projects/stackblitz-starters-2bsgm2/pages/404.html'
+6/24/2024, 11:58:05 PM	76f8493f-ac23-407a-85e8-93f84a8e9852	Error: ENOENT: no such file or directory, stat '/home/projects/stackblitz-starters-2bsgm2/pages/404.html'
+6/24/2024, 11:58:12 PM	6ac8fbf9-6a21-409d-93fa-0a54b84b659f	Error: ENOENT: no such file or directory, stat '/home/projects/stackblitz-starters-2bsgm2/pages/404.html'
+6/25/2024, 12:00:45 AM	f1be757b-0479-4879-8daf-365ffb27597a	Error: ENOENT: no such file or directory, stat '/home/projects/stackblitz-starters-2bsgm2/pages/404.html'
+6/25/2024, 12:01:05 AM	fb57c85f-d99a-4104-8015-e513649fd5d5	Error: ENOENT: no such file or directory, stat '/home/projects/stackblitz-starters-2bsgm2/pages/404.html'
+6/25/2024, 12:01:59 AM	e4971dc8-04e1-43f6-ab2d-fcd408572fb2	Error: ENOENT: no such file or directory, stat '/home/projects/stackblitz-starters-2bsgm2/pages/404.html'
+6/25/2024, 12:03:05 AM	2fd380b0-34ac-4b57-b323-ab836536a295	TypeError: cookies.toString is not a function
