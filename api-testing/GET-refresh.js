@@ -1,13 +1,13 @@
-const axios = require('axios');
-const url = require('./constants');
+const axios = require('axios')
+const url = require('./constants')
 
-(async function refreshToken() {
+;(async function refreshToken() {
   try {
     const { data, status } = await axios.get(`${url}/refresh`, {
       withCredentials: true,
-    });
-    console.log(data, status);
+    })
+    console.log(data, status)
   } catch (err) {
-    console.log(err);
+    console.log(err)
   }
-})();
+})()

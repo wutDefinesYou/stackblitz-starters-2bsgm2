@@ -1,3 +1,3 @@
-const url = 'http://localhost:3010';
+const url = 'http://localhost:3010'
 
-module.exports = url;
+module.exports = url

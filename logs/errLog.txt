@@ -31,3 +31,24 @@
 6/25/2024, 12:01:05 AM	fb57c85f-d99a-4104-8015-e513649fd5d5	Error: ENOENT: no such file or directory, stat '/home/projects/stackblitz-starters-2bsgm2/pages/404.html'
 6/25/2024, 12:01:59 AM	e4971dc8-04e1-43f6-ab2d-fcd408572fb2	Error: ENOENT: no such file or directory, stat '/home/projects/stackblitz-starters-2bsgm2/pages/404.html'
 6/25/2024, 12:03:05 AM	2fd380b0-34ac-4b57-b323-ab836536a295	TypeError: cookies.toString is not a function
+6/28/2024, 8:11:56 PM	1bfc835b-476d-49bd-b5c6-d5e8c8ae7ef9	Error: Not allowed by CORS
+6/28/2024, 8:11:56 PM	b7ea12ac-f9e0-44a6-ab0c-d42f2b46d9f1	Error: Not allowed by CORS
+6/28/2024, 8:15:18 PM	4f261f14-0c38-4683-b968-e0cf40c6de0c	Error: Not allowed by CORS
+6/28/2024, 8:15:18 PM	a088ddb5-7aaa-451c-947d-3f60f4f78f7c	Error: Not allowed by CORS
+6/28/2024, 8:21:54 PM	67519ca1-81d2-4caa-a49c-26927a9ee45f	Error: ENOENT: no such file or directory, stat 'C:\Users\Zishuo\Documents\stackblitz-starters-2bsgm2\pages\404.html'
+6/28/2024, 8:22:48 PM	0a4ac4c2-97cf-4179-ba92-4f391a748e48	Error: ENOENT: no such file or directory, stat 'C:\Users\Zishuo\Documents\stackblitz-starters-2bsgm2\pages\404.html'
+7/1/2024, 5:01:03 PM	ac82a41f-e857-43a5-b05a-9e0a7dfb9162	ReferenceError: username is not defined
+7/1/2024, 5:02:40 PM	64a46eba-cd0e-44cd-ae55-372b55c49b1b	ReferenceError: username is not defined
+7/1/2024, 5:03:42 PM	271c9801-b6d3-4b0c-ae40-4ff91f614add	ReferenceError: username is not defined
+7/1/2024, 5:04:04 PM	18c14e3b-7932-4332-a5ae-5057e79e82d5	ReferenceError: username is not defined
+7/1/2024, 5:04:42 PM	5ea44ccb-ce0e-438d-b9e8-365c89836e82	ReferenceError: username is not defined
+7/1/2024, 5:05:21 PM	2e0c2b27-64cc-497a-af30-382531d8f677	TypeError: Cannot read properties of undefined (reading 'username')
+7/1/2024, 5:05:58 PM	97914c11-9b4e-4f7c-b72c-1878bf192061	TypeError: Cannot read properties of undefined (reading 'username')
+7/1/2024, 5:06:39 PM	3e4f9f5e-2f08-4a94-ac90-624cd90f0839	ReferenceError: username is not defined
+7/1/2024, 5:07:02 PM	f6d6ad4b-0a2b-4675-99dc-fdc272c49362	ReferenceError: username is not defined
+7/1/2024, 5:07:13 PM	6e171e0a-d3c5-40af-b9ce-5392fe584d3b	ReferenceError: username is not defined
+7/1/2024, 5:07:39 PM	5d8a9bbb-7963-4374-af9f-00c8b3707faf	ReferenceError: username is not defined
+7/1/2024, 5:07:48 PM	33688df9-3689-4649-a442-944f7d222cc2	ReferenceError: username is not defined
+7/1/2024, 5:08:10 PM	c8e6b208-3c36-4d31-a425-fe7517ba2379	ReferenceError: username is not defined
+7/1/2024, 5:08:22 PM	98caeabe-6832-4fb4-b526-d9f0e61bbbf5	ReferenceError: username is not defined
+7/1/2024, 5:09:10 PM	e2e626f9-986e-4bee-a397-8a42ab39a54f	ReferenceError: username is not defined

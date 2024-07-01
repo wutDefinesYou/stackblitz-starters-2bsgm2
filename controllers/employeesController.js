@@ -1,12 +1,12 @@
 const data = {
   employees: require('../model/employees.json'),
   setEmployees: function (data) {
-    this.employees = data;
+    this.employees = data
   },
-};
+}
 
 function getAllEmployees() {
-  return data.employees;
+  return data.employees
 }
 
 function createNewEmployee(body) {
@@ -14,28 +14,28 @@ function createNewEmployee(body) {
     id: data.employees.at(-1).id + 1 ?? 1,
     firstname: body.firstname,
     lastname: body.lastname,
-  };
+  }
 
-  data.employees.push(newEmployee);
-  console.log(data.employees);
+  data.employees.push(newEmployee)
+  console.log(data.employees)
 }
 
 function getEmployee(id) {
-  return data.employees.find((employee) => employee.id === id);
+  return data.employees.find((employee) => employee.id === id)
 }
 
 function updateEmployee(id, body) {
-  const index = data.employees.findIndex((employee) => employee.id === id);
+  const index = data.employees.findIndex((employee) => employee.id === id)
   data.employees[index] = {
     ...data.employees[index],
     ...body,
-  };
-  console.log(data.employees);
+  }
+  console.log(data.employees)
 }
 
 function removeEmployee(id) {
-  data.setEmployees(data.employees.filter((employee) => employee.id !== id));
-  console.log(id);
+  data.setEmployees(data.employees.filter((employee) => employee.id !== id))
+  console.log(id)
 }
 
 module.exports = {
@@ -44,4 +44,4 @@ module.exports = {
   getEmployee,
   updateEmployee,
   removeEmployee,
-};
+}
